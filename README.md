@@ -1,6 +1,6 @@
 # Fun_links
 
-Videos about coding process in bioinformatics:
+Videos about coding process in bioinformatics using Python:
 
 https://www.youtube.com/c/rebelCoderBio
 
