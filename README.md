@@ -28,6 +28,8 @@ tree -F
 
 ### Codewars 
 
+https://www.codewars.com/dashboard
+
 Here you can learn and expand your coding skills.
 The world's most advanced coding assessment platform for organizations looking to expand their hiring, professional development, and certification programs. 
 
