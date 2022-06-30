@@ -26,6 +26,10 @@ tree -F
 
  Other Games for learning Bash: https://opensource.com/article/19/10/learn-bash-command-line-games
 
+### Codewars 
 
+Here you can learn and expand your coding skills.
+The world's most advanced coding assessment platform for organizations looking to expand their hiring, professional development, and certification programs. 
 
+![Github](https://miro.medium.com/max/1400/1*9HeK12odwRVhRzMj2vdaJA.jpeg)
 
