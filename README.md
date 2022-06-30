@@ -17,7 +17,15 @@ Bashcrawl is a game that teaches you how to use the linux command line.
 
 ![Github](https://opensource.com/sites/default/files/images/education/screenshot_from_2019-09-28_10-49-49.png)
 
+```Shell
+pwd
+cd ~
+ls -l   
+tree -F
+```
+
  Other Games for learning Bash: https://opensource.com/article/19/10/learn-bash-command-line-games
+
 
 
 
