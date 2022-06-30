@@ -35,3 +35,11 @@ The world's most advanced coding assessment platform for organizations looking t
 
 ![Github](https://miro.medium.com/max/1400/1*9HeK12odwRVhRzMj2vdaJA.jpeg)
 
+
+### Rosalind 
+
+https://rosalind.info/problems/list-view/
+
+Rosalind is a platform for learning bioinformatics and programming through problem solving
+
+![Github](https://repository-images.githubusercontent.com/205526686/cddf3e00-cf4a-11e9-9a8c-ced90ade478f)
